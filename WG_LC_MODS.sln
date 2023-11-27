@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WG_LC_MODS", "WG_LC_MODS\WG_LC_MODS.csproj", "{978A7EBF-8D6A-484F-AA5C-30FCC0CFF37B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978A7EBF-8D6A-484F-AA5C-30FCC0CFF37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978A7EBF-8D6A-484F-AA5C-30FCC0CFF37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978A7EBF-8D6A-484F-AA5C-30FCC0CFF37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978A7EBF-8D6A-484F-AA5C-30FCC0CFF37B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {080DE4D2-2AAA-4EE7-929F-C7B5F7A44445}
+	EndGlobalSection
+EndGlobal
